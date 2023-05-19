@@ -1,5 +1,5 @@
 # SQL--Problem-Statement---Pizza_Runner
-This Problem statement basically provides information on how improvise the revenue based on the parameters that is being solved int the scenoria Introduction to case study
+This Problem statement basically provides information on how improvise the revenue based on the parameters that is being solved int the scenoria. Introduction to case study
 =========================================
 Did you know that over 250 million kilograms of pizza is consumed daily worldwide???
 
